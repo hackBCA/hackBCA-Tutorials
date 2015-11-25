@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Part I: The Basics](part1/README.md)
-   * [Basic git](part1/git.md)
+   * [git](part1/git.md)
 
