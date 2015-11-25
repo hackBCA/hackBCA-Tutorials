@@ -1,4 +1,5 @@
 # Summary
 
-* [Git](git.md)
+* [Part I: The Basics](part1/README.md)
+    * [Git](git.md)
 
