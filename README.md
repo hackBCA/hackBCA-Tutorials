@@ -10,4 +10,4 @@ If you are not an organizer for hackBCA's tech team, then feel free to learn fro
 
 We are constantly going to be adding to this collection with new topics and making old ones better, so check back often to get the latest version of this book. In the mean time, we hope that you learn a lot from hackBCA and how our tech team works. Happy hacking!
 
-- hackBCA Tech Team
+\- hackBCA Tech Team
