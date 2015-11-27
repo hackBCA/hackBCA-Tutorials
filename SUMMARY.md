@@ -7,3 +7,4 @@
    * [HTML](part1/html.md)
    * [CSS](part1/css.md)
    * [Javascript](part1/javascript.md)
+* [Part II: Web Development Technologies](part2/README.md)
